@@ -67,15 +67,15 @@
                                         </el-table-column>
                                         <el-table-column
                                                 prop="Fi"
-                                                label="Fi">
+                                                label="Fi（目的寄存器）">
                                         </el-table-column>
                                         <el-table-column
                                                 prop="Fj"
-                                                label="Fj">
+                                                label="Fj（源寄存器）">
                                         </el-table-column>
                                         <el-table-column
                                                 prop="Fk"
-                                                label="Fk">
+                                                label="Fk（源寄存器）">
                                         </el-table-column>
                                         <el-table-column
                                                 prop="Qj"
